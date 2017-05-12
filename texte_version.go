@@ -37,7 +37,7 @@ type TexteVersion struct {
 	CodesNomenclatures string   `xml:"META>META_SPEC>META_TEXTE_VERSION>CODES_NOMENCLATURES"`
 	McsTxt             []string `xml:"META>META_SPEC>META_TEXTE_VERSION>MCS_TXT>MC"`
 
-	Visas     struct {
+	Visas struct {
 		Contenu string `xml:",innerxml"`
 	} `xml:"VISAS>CONTENU"`
 
