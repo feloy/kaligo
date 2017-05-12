@@ -6,7 +6,7 @@ import (
 )
 
 type Conteneur struct {
-	XMLName xml.Name `xml:"IDCC"`	
+	XMLName xml.Name `xml:"IDCC"`
 	// META
 	// - META_COMMUN
 	Id       string `xml:"META>META_COMMUN>ID"`
@@ -14,7 +14,7 @@ type Conteneur struct {
 	Origine  string `xml:"META>META_COMMUN>ORIGINE"`
 	Url      string `xml:"META>META_COMMUN>URL"`
 	Nature   string `xml:"META>META_COMMUN>NATURE"`
-	
+
 	// - META_SPEC
 	//  - META_CONTENEUR
 	Titre     string `xml:"META>META_SPEC>META_CONTENEUR>TITRE"`
@@ -27,7 +27,7 @@ type Conteneur struct {
 	Tms      []Tm      `xml:"STRUCTURE_TXT>TM"`
 
 	// TXTS_ISO
-	
+
 	// ACTS_PRO
 	ActsPro []string `xml:"ACTS_PRO>ACT_PRO"`
 

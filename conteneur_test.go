@@ -12,6 +12,7 @@ func TestDecodeConteneurUnknown(t *testing.T) {
 		t.Errorf("Error unhandled not found file")
 	}
 }
+
 /*
 func TestDecodeConteneurInvalid(t *testing.T) {
 	f := "specs/texte_version_LEGITEXT000005627819.xml"
@@ -57,4 +58,3 @@ func TestDecodeConteneur(t *testing.T) {
 	assertLenEquals(t, 1, len(v.NumsBroch))
 	assertStringEquals(t, "3328", v.NumsBroch[0])
 }
-

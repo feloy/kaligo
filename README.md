@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/feloy/legigo.svg?branch=master)](https://travis-ci.org/feloy/legigo) [![Coverage Status](https://coveralls.io/repos/github/feloy/legigo/badge.svg?branch=master)](https://coveralls.io/github/feloy/legigo?branch=master)
+[![Build Status](https://travis-ci.org/feloy/kaligo.svg?branch=master)](https://travis-ci.org/feloy/kaligo) [![Coverage Status](https://coveralls.io/repos/github/feloy/kaligo/badge.svg?branch=master)](https://coveralls.io/github/feloy/kaligo?branch=master)
 
-# legigo
-Go (golang) library to explore LEGI files available at https://www.data.gouv.fr/fr/datasets/legi-codes-lois-et-reglements-consolides/
+# kaligo
+Go (golang) library to explore KALI files available at https://www.data.gouv.fr/fr/datasets/kali-conventions-collectives-nationales/
 
-Inline Documentation: https://godoc.org/github.com/feloy/legigo
+Inline Documentation: https://godoc.org/github.com/feloy/kaligo
