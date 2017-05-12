@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+  <META>
+    <META_COMMUN>
+      <ID>KALICONT000017577652</ID>
+      <ANCIEN_ID>UN_ANCIEN_ID</ANCIEN_ID>
+      <ORIGINE>KALI</ORIGINE>
+      <URL>conteneur/KALI/CONT/00/00/17/57/76/KALICONT000017577652.xml</URL>
+      <NATURE>IDCC</NATURE>
+    </META_COMMUN>
+    <META_SPEC>
+      <META_CONTENEUR>
+	<TITRE>Convention collective nationale du sport du 7 juillet 2005 étendue par arrêté du 21 novembre 2006</TITRE>
+	<ETAT>VIGUEUR_ETEN</ETAT>
+	<NUM>2511</NUM>
+
+	<DATE_PUBLI>2005-07-07</DATE_PUBLI>
+      </META_CONTENEUR>
+    </META_SPEC>
+  </META>
+  <STRUCTURE_TXT>
+    <TM niv="1">
+      <TITRE_TM>Texte de base</TITRE_TM>
+      <LIEN_TXT idtxt="KALITEXT000017577657" titretxt="Convention collective nationale du 7 juillet 2005"/>
+    </TM>
+    <TM niv="1">
+      <TITRE_TM>Textes Attachés</TITRE_TM>
+      <LIEN_TXT idtxt="KALITEXT000017577930" titretxt="Financement de la formation professionnelle et du paritarisme"/>
+      <LIEN_TXT idtxt="KALITEXT000017577942" titretxt="Dispositions relatives à l'accord professionnel"/>
+      <LIEN_TXT idtxt="KALITEXT000017577962" titretxt="Désignation des OPCA"/>
+      <LIEN_TXT idtxt="KALITEXT000018121603" titretxt="Modification de l'annexe I relatif aux CQP"/>
+      <LIEN_TXT idtxt="KALITEXT000018122208" titretxt="Avenant à l'accord national professionnel portant création d'une sous-commission CQP"/>
+      <LIEN_TXT idtxt="KALITEXT000018122214" titretxt="relatif aux modalités du contrat de travail intermittent "/>
+      <LIEN_TXT idtxt="KALITEXT000018122220" titretxt="Modalités du travail à temps partiel"/>
+      <LIEN_TXT idtxt="KALITEXT000018122227" titretxt="Moyens d'action des sections syndicales"/>
+      <LIEN_TXT idtxt="KALITEXT000018122233" titretxt="Prime d'interruption d'activité"/>
+      <LIEN_TXT idtxt="KALITEXT000018122239" titretxt="Avenant à l'annexe I portant sur les CQP"/>
+      <LIEN_TXT idtxt="KALITEXT000018122244" titretxt="Avenant relatif au CQP « Animateur des activités gymnastiques »"/>
+      <LIEN_TXT idtxt="KALITEXT000018122250" titretxt="CQP « Animateur de savate »"/>
+      <LIEN_TXT idtxt="KALITEXT000018122255" titretxt="CQP « Guide de véhicules terrestres motorisés »"/>
+      <LIEN_TXT idtxt="KALITEXT000018122261" titretxt="Modulation du temps de travail"/>
+      <LIEN_TXT idtxt="KALITEXT000018562372" titretxt="Adhésion par lettre de la FERC-CGT et de l'USPAOC-CGT à la convention collective"/>
+      <LIEN_TXT idtxt="KALITEXT000018562579" titretxt="Grille de classification du chapitre XII"/>
+      <LIEN_TXT idtxt="KALITEXT000018562585" titretxt="Création d'une commission paritaire nationale"/>
+      <LIEN_TXT idtxt="KALITEXT000018562590" titretxt="Groupements d'employeurs"/>
+      <LIEN_TXT idtxt="KALITEXT000018562596" titretxt="Avenant relatif aux avenants n°s 12, 14 et 15 du 5 juillet 2007"/>
+      <LIEN_TXT idtxt="KALITEXT000018562606" titretxt="Sous-commission CQP"/>
+      <LIEN_TXT idtxt="KALITEXT000018826483" titretxt="Modification de l'avenant n° 14 du 5 juillet 2007"/>
+      <LIEN_TXT idtxt="KALITEXT000018827560" titretxt="Avenant modifiant l'article 12.8 de la convention collective"/>
+      <LIEN_TXT idtxt="KALITEXT000018827566" titretxt="Avenant modifiant l'article 1er de la convention collective"/>
+      <LIEN_TXT idtxt="KALITEXT000019510238" titretxt="Droit individuel à la formation (DIF)"/>
+      <LIEN_TXT idtxt="KALITEXT000019510247" titretxt="relatif aux CQP"/>
+      <LIEN_TXT idtxt="KALITEXT000019732312" titretxt="Avenant à l'annexe I du 7 juillet 2005, relatif aux certificats de qualification professionnelle"/>
+      <LIEN_TXT idtxt="KALITEXT000019747570" titretxt="CQP tennis"/>
+      <LIEN_TXT idtxt="KALITEXT000020137742" titretxt="CQP « Technicien sportif de basket-ball »"/>
+      <LIEN_TXT idtxt="KALITEXT000019819463" titretxt="CQP (Annexe I)"/>
+      <LIEN_TXT idtxt="KALITEXT000020314453" titretxt="Indemnités de licenciement"/>
+      <LIEN_TXT idtxt="KALITEXT000020314458" titretxt="Périodes d'essai"/>
+      <LIEN_TXT idtxt="KALITEXT000020314463" titretxt="Champ d'application de la convention"/>
+      <LIEN_TXT idtxt="KALITEXT000021041373" titretxt="CQP « Assistant moniteur char à voile »"/>
+      <LIEN_TXT idtxt="KALITEXT000021041379" titretxt="CQP « Assistant professeur en arts martiaux »"/>
+      <LIEN_TXT idtxt="KALITEXT000021041385" titretxt="Incidence de la recodification du code du travail"/>
+      <LIEN_TXT idtxt="KALITEXT000021482699" titretxt="Rémunérations minimales"/>
+      <LIEN_TXT idtxt="KALITEXT000022219472" titretxt="Modification du champ d'application de la convention"/>
+      <LIEN_TXT idtxt="KALITEXT000022271580" titretxt="Maintien de salaire du personnel non indemnisé par la sécurité sociale"/>
+      <LIEN_TXT idtxt="KALITEXT000023387996" titretxt="Fonds d'aide au développement du paritarisme"/>
+      <LIEN_TXT idtxt="KALITEXT000023388001" titretxt="Recodification de la convention"/>
+      <LIEN_TXT idtxt="KALITEXT000023388029" titretxt="Champ d'application de la convention"/>
+      <LIEN_TXT idtxt="KALITEXT000023388036" titretxt="CQP « Assistant moniteur motonautisme »"/>
+      <LIEN_TXT idtxt="KALITEXT000023388042" titretxt="CQP « Moniteur d'aviron »"/>
+      <LIEN_TXT idtxt="KALITEXT000023388050" titretxt="CQP « Moniteur de rugby à XV »"/>
+      <LIEN_TXT idtxt="KALITEXT000023388058" titretxt="CQP « Moniteur de roller skating »"/>
+      <LIEN_TXT idtxt="KALITEXT000023388066" titretxt="CQP « Agent de sécurité de l'événementiel »"/>
+      <LIEN_TXT idtxt="KALITEXT000024401488" titretxt="Certificats de qualification professionnelle de l'annexe I de la convention"/>
+      <LIEN_TXT idtxt="KALITEXT000024401496" titretxt="Certificats de qualification professionnelle de l'annexe I de la convention"/>
+      <LIEN_TXT idtxt="KALITEXT000024401504" titretxt="Certificats de qualification professionnelle de l'annexe I de la convention"/>
+      <LIEN_TXT idtxt="KALITEXT000024401512" titretxt="Certificats de qualification professionnelle de l'annexe I de la convention"/>
+      <LIEN_TXT idtxt="KALITEXT000024565875" titretxt="Commission paritaire d'interprétation"/>
+      <LIEN_TXT idtxt="KALITEXT000024565890" titretxt="Champ d'application"/>
+      <LIEN_TXT idtxt="KALITEXT000024565903" titretxt="CQP « Moniteur football américain »"/>
+      <LIEN_TXT idtxt="KALITEXT000024565911" titretxt="CQP « Technicien de cheerleading »"/>
+      <LIEN_TXT idtxt="KALITEXT000024565919" titretxt="CQP « Animateur de badminton »"/>
+      <LIEN_TXT idtxt="KALITEXT000024565927" titretxt="CQP « Moniteur de tir sportif »"/>
+      <LIEN_TXT idtxt="KALITEXT000024832617" titretxt="Désignation d'un OPCA"/>
+      <LIEN_TXT idtxt="KALITEXT000024892073" titretxt="SPOR"/>
+      <LIEN_TXT idtxt="KALITEXT000025264492" titretxt="Financement du paritarisme"/>
+      <LIEN_TXT idtxt="KALITEXT000025911313" titretxt="CQP « Assistant moniteur char à voile »"/>
+      <LIEN_TXT idtxt="KALITEXT000026152999" titretxt="CQP « Technicien sportif de rugby à xv »"/>
+      <LIEN_TXT idtxt="KALITEXT000026153007" titretxt="Absences liées au mandat syndical"/>
+      <LIEN_TXT idtxt="KALITEXT000026153013" titretxt="CQP « Animateur hockey sur glace »"/>
+      <LIEN_TXT idtxt="KALITEXT000026153021" titretxt="CQP « Guide de véhicules terrestres motorisés »"/>
+      <LIEN_TXT idtxt="KALITEXT000026153031" titretxt="Présentation des comptes prévoyance"/>
+      <LIEN_TXT idtxt="KALITEXT000026153037" titretxt="CQP « Plieur de parachute de secours »"/>
+      <LIEN_TXT idtxt="KALITEXT000026153045" titretxt="CQP « Opérateur vidéo/photo parachutisme »"/>
+      <LIEN_TXT idtxt="KALITEXT000026153053" titretxt="CQP « Moniteur de canoë-kayak »"/>
+      <LIEN_TXT idtxt="KALITEXT000026563123" titretxt="CQP « Animateur d'athlétisme »"/>
+      <LIEN_TXT idtxt="KALITEXT000027223353" titretxt="CQP « Assistant moniteur de voile »"/>
+      <LIEN_TXT idtxt="KALITEXT000027223364" titretxt="CQP « Animateur des activités gymniques »"/>
+      <LIEN_TXT idtxt="KALITEXT000027223373" titretxt="Commission paritaire nationale de prévention, d'hygiène, de sécurité et de veille sanitaire"/>
+      <LIEN_TXT idtxt="KALITEXT000027223380" titretxt="CQP « Technicien sportif d'athlétisme »"/>
+      <LIEN_TXT idtxt="KALITEXT000027223389" titretxt="CQP « Educateur mobilité à vélo »"/>
+      <LIEN_TXT idtxt="KALITEXT000027223396" titretxt="Financement du paritarisme"/>
+      <LIEN_TXT idtxt="KALITEXT000027223404" titretxt="Contrat de travail intermittent à durée indéterminée"/>
+      <LIEN_TXT idtxt="KALITEXT000027663082" titretxt="Adhésion de la FNEAPL à la convention"/>
+      <LIEN_TXT idtxt="KALITEXT000027886706" titretxt="CQP « Moniteur de roller skating »"/>
+      <LIEN_TXT idtxt="KALITEXT000027947750" titretxt="Formation professionnelle"/>
+      <LIEN_TXT idtxt="KALITEXT000029131517" titretxt="Négociation pluriannuelle"/>
+      <LIEN_TXT idtxt="KALITEXT000029131531" titretxt="CQP « Technicien de piste de karting »"/>
+      <LIEN_TXT idtxt="KALITEXT000029131540" titretxt="Fonds d'aide au développement du paritarisme"/>
+      <LIEN_TXT idtxt="KALITEXT000029338079" titretxt="CQP « Moniteur de vol à plat en soufflerie »"/>
+      <LIEN_TXT idtxt="KALITEXT000029361517" titretxt="Contrat de travail à temps partiel"/>
+      <LIEN_TXT idtxt="KALITEXT000029361545" titretxt="Contrat de travail à temps partiel"/>
+      <LIEN_TXT idtxt="KALITEXT000029754225" titretxt="CQP « Moniteur d'escrime »"/>
+      <LIEN_TXT idtxt="KALITEXT000029754234" titretxt="CQP « Technicien sportif de basket-ball »"/>
+      <LIEN_TXT idtxt="KALITEXT000029754245" titretxt="CQP « Moniteur d'arts martiaux »"/>
+      <LIEN_TXT idtxt="KALITEXT000030236803" titretxt="CQP"/>
+      <LIEN_TXT idtxt="KALITEXT000030236814" titretxt="CQP « Animateur course d'orientation »"/>
+      <LIEN_TXT idtxt="KALITEXT000030236823" titretxt="CQP « Animateur de savate »"/>
+      <LIEN_TXT idtxt="KALITEXT000030429392" titretxt="CQP « Animateur escalade sur structures artificielles »"/>
+      <LIEN_TXT idtxt="KALITEXT000030641826" titretxt="Désignation d'un OPCA"/>
+      <LIEN_TXT idtxt="KALITEXT000030641833" titretxt="Contributions formation"/>
+      <LIEN_TXT idtxt="KALITEXT000030978227" titretxt="Formation professionnelle"/>
+      <LIEN_TXT idtxt="KALITEXT000031195731" titretxt="CQP « Assistant moniteur de tennis »"/>
+      <LIEN_TXT idtxt="KALITEXT000031195741" titretxt="CQP « Moniteur en sport adapté »"/>
+      <LIEN_TXT idtxt="KALITEXT000031490776" titretxt="CQP « Assistant moniteur de voile »"/>
+      <LIEN_TXT idtxt="KALITEXT000031490786" titretxt="Organisation du dialogue social"/>
+      <LIEN_TXT idtxt="KALITEXT000032094208" titretxt="Apprentissage"/>
+      <LIEN_TXT idtxt="KALITEXT000032094221" titretxt="Mise en place d'un régime de frais de santé"/>
+      <LIEN_TXT idtxt="KALITEXT000032094291" titretxt="CQP « Animateur des activités gymniques »"/>
+      <LIEN_TXT idtxt="KALITEXT000032094302" titretxt="CQP « Cartographe de course d'orientation »"/>
+      <LIEN_TXT idtxt="KALITEXT000032594204" titretxt="CQP « Accompagnateur en téléski nautique »"/>
+      <LIEN_TXT idtxt="KALITEXT000032594211" titretxt="Financement du paritarisme et formation professionnelle"/>
+      <LIEN_TXT idtxt="KALITEXT000033106353" titretxt="CQP « Technicien de tir à l'arc »"/>
+      <LIEN_TXT idtxt="KALITEXT000033106362" titretxt="CQP « Moniteur de roller skating »"/>
+      <LIEN_TXT idtxt="KALITEXT000033286515" titretxt="Prévoyance"/>
+      <LIEN_TXT idtxt="KALITEXT000033877714" titretxt="Intégration du CDD spécifique"/>
+    </TM>
+    <TM niv="1">
+      <TITRE_TM>Textes Salaires</TITRE_TM>
+      <LIEN_TXT idtxt="KALITEXT000017985474" titretxt="Salaires"/>
+      <LIEN_TXT idtxt="KALITEXT000019747576" titretxt="Salaires"/>
+      <LIEN_TXT idtxt="KALITEXT000020238780" titretxt="Salaires"/>
+      <LIEN_TXT idtxt="KALITEXT000023561586" titretxt="Salaires"/>
+      <LIEN_TXT idtxt="KALITEXT000023406876" titretxt="Salaires"/>
+      <LIEN_TXT idtxt="KALITEXT000026355866" titretxt="Salaires minima au 1er septembre 2012"/>
+      <LIEN_TXT idtxt="KALITEXT000029361537" titretxt="Salaires minima au 1er juillet 2014"/>
+      <LIEN_TXT idtxt="KALITEXT000032094308" titretxt="Salaires"/>
+    </TM>
+    <TM niv="1">
+      <TITRE_TM>Textes Extensions</TITRE_TM>
+    </TM>
+  </STRUCTURE_TXT>
+  <TXTS_ISO/>
+  <ACTS_PRO>
+    <ACT_PRO>Sport</ACT_PRO>
+  </ACTS_PRO>
+  <NUMS_BROCH>
+    <NUM_BROCH>3328</NUM_BROCH>
+  </NUMS_BROCH>
+
+</IDCC>
