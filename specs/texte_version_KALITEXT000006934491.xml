@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+  <META>
+    <META_COMMUN>
+      <ID>KALITEXT000006934491</ID>
+      <ANCIEN_ID>K4U92016</ANCIEN_ID>
+      <ORIGINE>KALI</ORIGINE>
+      <URL>texte/version/KALI/TEXT/00/00/06/93/44/KALITEXT000006934491.xml</URL>
+      <NATURE>ACCORD</NATURE>
+    </META_COMMUN>
+    <META_SPEC>
+      <META_TEXTE_CHRONICLE>
+	<CID>KALITEXT000006934491</CID>
+	<NUM/>
+	<NUM_SEQUENCE/>
+	<NOR>ASET0050882M</NOR>
+	<DATE_PUBLI>2999-01-01</DATE_PUBLI>
+	<DATE_TEXTE>2000-10-24</DATE_TEXTE>
+	<DERNIERE_MODIFICATION>2006-12-11</DERNIERE_MODIFICATION>
+	<ORIGINE_PUBLI/>
+	<PAGE_DEB_PUBLI/>
+	<PAGE_FIN_PUBLI/>
+      </META_TEXTE_CHRONICLE>
+      <META_TEXTE_VERSION>
+	<TITRE>Salaires (Nord - Pas-De-Calais)</TITRE>
+	<TITREFULL>Nord - Pas-De-Calais Accord du 24 octobre 2000 relatif aux salaires</TITREFULL>
+	<APPLI_GEO>REGIONAL NORD PAS-DE-CALAIS</APPLI_GEO>
+	<CODES_NOMENCLATURES/>
+	<ETAT>VIGUEUR_ETEN</ETAT>
+	<DATE_DEBUT>2000-10-24</DATE_DEBUT>
+	<DATE_FIN>2999-01-01</DATE_FIN>
+	<MCS_TXT>
+	  <MC>cabinets d'architecte</MC>
+	  <MC>Maîtrise d'oeuvre</MC>
+	</MCS_TXT>
+      </META_TEXTE_VERSION>
+    </META_SPEC>
+  </META>
+  <VISAS>
+    <CONTENU>Un texte de visa</CONTENU>
+  </VISAS>
+  <SIGNATAIRES>
+    <SIGNPATRON>
+      <CONTENU><br/>Le syndicat des architectes de la région Nord - Pas-de-Calais (membre de l'UNSFA),<br/></CONTENU>
+    </SIGNPATRON>
+    <SIGNSYNDIC>
+      <CONTENU><br/>Le syndicat CFDT,<br/></CONTENU>
+    </SIGNSYNDIC>
+    <ORGADHERE>
+      <CONTENU/>
+    </ORGADHERE>
+    <ORGDENONCE>
+      <CONTENU/>
+    </ORGDENONCE>
+    <SIGNEXT>
+      <CONTENU/>
+    </SIGNEXT>
+    <EXECUTION>
+      <CONTENU/>
+    </EXECUTION>
+  </SIGNATAIRES>
+  <NOTA>
+    <CONTENU>Un texte de nota</CONTENU>
+  </NOTA>
+  <CONDITION_DIFFERE>Le présent accord est applicable à compter de la publication de son arrêté d'extension.</CONDITION_DIFFERE>
+</TEXTE_VERSION>

@@ -13,14 +13,13 @@ func TestDecodeConteneurUnknown(t *testing.T) {
 	}
 }
 
-/*
 func TestDecodeConteneurInvalid(t *testing.T) {
-	f := "specs/texte_version_LEGITEXT000005627819.xml"
+	f := "specs/texte_version_KALITEXT000006934491.xml"
 	_, err := DecodeConteneur(f)
 	if err == nil {
 		t.Errorf("Error unhandled invalid file")
 	}
-}*/
+}
 
 func TestDecodeConteneur(t *testing.T) {
 	f := "specs/conteneur_KALICONT000017577652.xml"
